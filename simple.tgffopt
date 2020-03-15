@@ -1,0 +1,9 @@
+tg_cnt 1
+task_cnt 10 3
+task_degree 2 2
+period_laxity 0.9
+period_mul 1, 0.5, 2
+seed 1
+tg_write
+eps_write
+vcg_write
